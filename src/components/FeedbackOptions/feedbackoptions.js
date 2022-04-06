@@ -15,7 +15,7 @@ export default function FeedbackOptions({ options, onLeaveFeedback }) {
             >
                 { option }    
             </button>
-        })
+            })
         }
     </div>
 }
